@@ -11,7 +11,10 @@ The survey had 25,973 responses with questions about education level, job title,
 ## Data Analysis
 For this project we used R for data exploration/analysis and Tableau for visualizations.
 ##Research Questions
-### Programming Language: What languages are used by each respondant? Do the frequencies of languages used differ among job titles? 
-### Degree: What is the highest level of education held by each respondant, filtered by job title? 
-### Years of Experience: Which jobs require the least/most years of experience?
+### Programming Language: 
+What languages are used by each respondant? Do the frequencies of languages used differ among job titles? 
+### Degree: 
+What is the highest level of education held by each respondant, filtered by job title? 
+### Years of Experience: 
+Which jobs require the least/most years of experience?
 ## Findings
