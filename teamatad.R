@@ -10,4 +10,3 @@ head(kaggle_data[["Q1"]])
 
 ## create a correlation matrix
 summary(kaggle_data)
-
