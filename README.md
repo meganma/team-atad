@@ -1,5 +1,5 @@
 # Title
-Link to Medium Article: [Exploring the Data Science Industry through Popular Job Titles]().
+Link to Medium Article: [Exploring the Data Science Industry through Popular Job Titles](https://ucladatares.medium.com/exploring-the-data-science-industry-through-popular-job-titles-9ef7caaeb166).
 
 Team Members:  Kyle Lee (Project Lead), Megan Ma, Amelie Ionescu, Christine Kim
 
